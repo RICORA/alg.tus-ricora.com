@@ -39,6 +39,16 @@ links:
         link: https://github.com/mugicha9
       - icon: brand-twitter
         link: https://twitter.com/mugichaffee
+  - title: shun74
+    description: 2021年度代表。情報計算科学科。1bitニューラルネットの研究やってます。ロボット系も好きです(Bittleで検索)。将来的にニューラルネットをFPGAに落とし込んで爆速化したい。
+    image: https://avatars.githubusercontent.com/u/53217247
+    social:
+      - icon: brand-github
+        link: https://github.com/shun74
+      - icon: brand-twitter
+        link: https://twitter.com/vietn4m74
+      - icon: brand-qiita
+        link: https://qiita.com/syunnsyunn74
 
 menu:
   main:
