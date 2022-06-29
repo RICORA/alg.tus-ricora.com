@@ -2,6 +2,14 @@
 # メンバー追加時は、入学(入部)年度の新しい部員が上になるようにしてください。
 title: メンバー
 links:
+  - title: たそたく
+    description: 2022年度副代表。情報計算科学科。アストルフォ推し。機械学習をいろいろやりたい。
+    image: https://avatars.githubusercontent.com/u/84508110
+    social:
+      - icon: brand-github
+        link: https://github.com/tasotaku
+      - icon: brand-twitter
+        link: https://twitter.com/tasotaku
   - title: Shinonome
     description: 2022年度代表。情報計算科学科。Splatoonが大好きで趣味。理論と実装の両方を頑張る。
     image: https://avatars.githubusercontent.com/u/66119716
