@@ -2,6 +2,15 @@
 # メンバー追加時は、入学(入部)年度の新しい部員が上になるようにしてください。
 title: メンバー
 links:
+  - title: Kattyan
+    description: 情報計算科学科。コンパイラや動画編集ソフトを作ってます。Arch Linux + Sway は良いです。
+    image: https://avatars.githubusercontent.com/u/48943030
+    social:
+      - icon: brand-github
+        link: https://github.com/sou1118
+      - icon: brand-twitter
+        link: https://twitter.com/kattyancmp
+      - link: https://kattyan.dev
   - title: たそたく
     description: 2022年度副代表。情報計算科学科。アストルフォ推し。機械学習をいろいろやりたい。
     image: https://avatars.githubusercontent.com/u/84508110
