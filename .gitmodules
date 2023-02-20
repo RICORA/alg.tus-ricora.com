@@ -1,0 +1,3 @@
+[submodule "themes/alg-hugo-theme"]
+	path = themes/alg-hugo-theme
+	url = git@github.com:RICORA/alg-hugo-theme.git
