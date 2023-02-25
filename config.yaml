@@ -1,0 +1,268 @@
+baseurl: https://alg.tus-ricora.com
+canonifyurls: true
+languageCode: ja
+theme: alg-hugo-theme
+paginate: 5
+title: RICORA Programming Team
+
+# Change it to your Disqus shortname before using
+disqusShortname: alg-hugo-theme
+
+# GA Tracking ID
+googleAnalytics:
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
+DefaultContentLanguage: ja
+
+# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
+# This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage: true
+
+permalinks:
+  post: /p/:slug/
+  page: /:slug/
+
+params:
+  googleSiteVerification:
+  mainSections:
+    - post
+  featuredImageField: image
+  rssFullContent: true
+  favicon: "/icons/favicon.svg"
+
+  footer:
+    since:
+    customText:
+
+  dateFormat:
+    published: 2006年01月02日
+    lastUpdated: 2006年01月02日
+
+  sidebar:
+    emoji:
+    subtitle: 東京理科大学 電子計算機研究会 プログラミング班
+    avatar:
+      enabled: true
+      local: false
+      src: https://github.com/ricora.png
+
+  article:
+    math: true
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+      default: Licensed under CC BY-NC-SA 4.0
+
+  comments:
+    enabled: false
+    provider: disqus
+
+    disqusjs:
+      shortname:
+      apiUrl:
+      apiKey:
+      admin:
+      adminLabel:
+
+    utterances:
+      repo:
+      issueTerm: pathname
+      label:
+
+    remark42:
+      host:
+      site:
+      locale:
+
+    vssue:
+      platform:
+      owner:
+      repo:
+      clientId:
+      clientSecret:
+      autoCreateIssue: false
+
+    # Waline client configuration see: https://waline.js.org/en/reference/client.html
+    waline:
+      serverURL:
+      lang:
+      visitor:
+      avatar:
+      emoji:
+        - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+      requiredMeta:
+        - name
+        - email
+        - url
+      placeholder:
+      locale:
+        admin: Admin
+
+    twikoo:
+      envId:
+      region:
+      path:
+      lang:
+
+    # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
+    cactus:
+      defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+      serverName: "cactus.chat"
+      siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
+
+    giscus:
+      repo:
+      repoID:
+      category:
+      categoryID:
+      mapping:
+      lightTheme:
+      darkTheme:
+      reactionsEnabled: 1
+      emitMetadata: 0
+
+    gitalk:
+      owner:
+      admin:
+      repo:
+      clientID:
+      clientSecret:
+
+    cusdis:
+      host:
+      id:
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 20
+      - type: twitter
+        params:
+          screenName: ricora_alg
+    page:
+      - type: toc
+
+  opengraph:
+    twitter:
+      # Your Twitter username
+      site: ricora_alg
+
+      # Available values: summary, summary_large_image
+      card: summary_large_image
+
+  defaultImage:
+    opengraph:
+      enabled: true
+      local: false
+      src: https://user-images.githubusercontent.com/52315048/219866076-8bc8b604-88fa-4127-bd0d-8a1fcecfa628.png
+
+  colorScheme:
+    # Display toggle
+    toggle: true
+
+    # Available values: auto, light, dark
+    default: auto
+
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
+
+### Custom menu
+### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
+### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
+menu:
+  main:
+    - identifier: home
+      name: ホーム
+      weight: -100
+      params:
+        ### For demonstration purpose, the home link will be open in a new tab
+        newTab: false
+        icon: home
+    - identifier: news
+      name: お知らせ
+      url: ./categories/news
+      weight: 1
+      params:
+        newTab: false
+        icon: news
+    - identifier: activities
+      name: 活動記録
+      url: ./categories/activities
+      weight: 2
+      params:
+        newTab: false
+        icon: activity
+    - identifier: works
+      name: 作品紹介
+      url: ./categories/works
+      weight: 3
+      params:
+        newTab: false
+        icon: star
+    - identifier: tags
+      name: タグ
+      url: ./tags
+      weight: 4
+      params:
+        newTab: false
+        icon: tag
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/RICORA/
+      params:
+        icon: brand-github
+
+    - identifier: twitter
+      name: Twitter
+      url: https://twitter.com/ricora_alg/
+      params:
+        icon: brand-twitter
+
+    - identifier: youtube
+      name: YouTube
+      url: https://www.youtube.com/channel/UC4qBY_aaTvTkQ3E0PY89T2A/
+      params:
+        icon: brand-youtube
+
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+
+    - name: categories
+      weight: 200
+
+markup:
+  goldmark:
+    renderer:
+      ## Set to true if you have HTML content inside Markdown
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
