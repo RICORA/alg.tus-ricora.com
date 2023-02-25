@@ -24,7 +24,7 @@ permalinks:
   page: /:slug/
 
 params:
-  googleSiteVerification:
+  googleSiteVerification: 5wEBBrG_Ny3D-6BCjB1ripHWE-JnY20G-DLMOOoNRJg
   mainSections:
     - post
   featuredImageField: image
