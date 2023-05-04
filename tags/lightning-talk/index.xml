@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lightning Talk on RICORA Programming Team</title><link>https://alg.tus-ricora.com/tags/lightning-talk/</link><description>Recent content in Lightning Talk on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/tags/lightning-talk/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年12月21日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20221221/</link><pubDate>Thu, 22 Dec 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20221221/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年12月21日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="aiが作る予想外な画像を考える">AIが作る予想外な画像を考える&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/67dfca8cb48a4817ae84580f6653ac1d" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="卒業研究の進め方">卒業研究の進め方&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/af9e3ae4cea542f8a4c7239c93308c77" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="巡回セールスマン問題での貪欲法の精度">巡回セールスマン問題での貪欲法の精度&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/92c3763f5e2b46caa96902dae28cbf7f" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="スライド操作用リモコンを作った話">スライド操作用リモコンを作った話&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/3543e5835f4e45a485b7d4cc9c2da9a2" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe></description></item><item><title>2022年11月16日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20221116/</link><pubDate>Thu, 17 Nov 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20221116/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年11月16日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="計算可能を素朴に考える">&amp;lt;計算可能&amp;gt;を素朴に考える&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/1bf7fc1f0bd14624a94013534e2e0aa6" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="dpを使ったナップザック問題の解き方">DPを使ったナップザック問題の解き方&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/44b4f85ed2334129ba743d0972ab1dfb" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="統計学を学びたい">統計学を学びたい&lt;/h3>
+&lt;h3 id="tauriでspotlight的なアプリを作ってる話">tauriでspotlight的なアプリを作ってる話&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/020fb06892884957b00e8886ead5de5c" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe></description></item><item><title>2022年11月9日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20221109/</link><pubDate>Thu, 10 Nov 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20221109/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年11月9日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="vision-transformer講座">Vision Transformer講座&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/e584fcf8fb744159846ef440b0847a20" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="スクラップ型技術記事のススメ">スクラップ型技術記事のススメ&lt;/h3>
+&lt;iframe frameborder="0" src="https://alg-slides.tus-ricora.com/scrap.html" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="マイナンバーカード-の有効利用法を探る">マイナンバーカード の有効利用法を探る&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/8dbb6209e0f44a0a845f0363758bafe5" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="ベイズで単回帰モデルを考える">ベイズで単回帰モデルを考える&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/8295d658c7104076974bf57f3c3fbb8a" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="streamlitで簡単なアプリを作ってみた">Streamlitで簡単なアプリを作ってみた&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/9d9013cb1cad423d9fa10809132779ea" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="terminal-user-interfaceの話">Terminal User Interfaceの話&lt;/h3>
+&lt;h3 id="haskellを学ぶためにブロック崩しを作った話">Haskellを学ぶためにブロック崩しを作った話&lt;/h3></description></item><item><title>2022年9月14日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220914/</link><pubDate>Thu, 15 Sep 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220914/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年9月14日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;p>夏休み明けの最初の活動ということもあり多くの部員が参加し、各々の夏休み中の進捗や成果を語って頂きました。&lt;/p>
+&lt;p>&lt;figure>
+&lt;img src="https://user-images.githubusercontent.com/52315048/236241719-c4b4a479-e9e5-4cf9-975e-ac48dc899f63.jpg"
+loading="lazy"
+alt="LT会の様子"
+>
+&lt;figcaption>LT会の様子&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="vision-transformerの1bit化">Vision Transformerの1bit化&lt;/h3>
+&lt;h3 id="boxjenkins法の紹介">Box–Jenkins法の紹介&lt;/h3>
+&lt;iframe frameborder="0" src="https://docs.google.com/presentation/d/1H7ojkuO4AEZg-aHOJAjRnMQVVFRojYxcD3f51jRpmTk/embed" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="google-colaboratoryでstable-diffusionの実装">Google ColaboratoryでStable Diffusionの実装&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/7002459ea9944f97b0f926f2edbcf20a" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="製作中の音ゲーの実装について">製作中の音ゲーの実装について&lt;/h3>
+&lt;h3 id="ヴィジュアルで理解するvulkan">ヴィジュアルで理解するVulkan&lt;/h3></description></item><item><title>2022年7月13日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220713/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220713/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年7月13日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="cで書いた末尾再帰を最適化したい">C++で書いた末尾再帰を最適化したい&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/7b9e32eb1ba34fa6bc7ba64b192cdef2" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="ニューラルネットの1bit化">ニューラルネットの1bit化&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/25e82ada9e574db7b03768f629b35185" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="これが本物のコピペプログラム">これが本物のコピペプログラム&lt;/h3>
+&lt;h3 id="ニューラルネットワークの学習について知ろう">ニューラルネットワークの学習について知ろう&lt;/h3>
+&lt;h3 id="少し幸せになれるスマートリモコンを作る">少し幸せになれるスマートリモコンを作る&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/91a020b63858445ea467a13d94c2968e" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="djangoでweb開発">Djangoでweb開発&lt;/h3></description></item><item><title>2022年6月22日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220622/</link><pubDate>Wed, 22 Jun 2022 18:40:32 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220622/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年6月22日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="みんな理解させるvision-transformer">みんな理解させるVision Transformer&lt;/h3>
+&lt;p>NNの基礎からVision Transformerまで説明をしました。&lt;/p>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/6e377f6246ff405db4766aec03a8f5e8" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="正規表現nfadfa">正規表現→NFA→DFA&lt;/h3>
+&lt;p>オートマトンを正規表現から作る説明をしました。&lt;/p></description></item><item><title>2022年5月11日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220511/</link><pubDate>Wed, 18 May 2022 17:08:32 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220511/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年5月11日(水)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="cで意識高い系開発してみた">C++で意識高い系開発してみた&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/ebd082273e474f42bfe0487e5a12b499" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;p>C++で物体検知を行うコードの開発を行いました。&lt;/p>
+&lt;h3 id="ベイズ統計モデリングはじめました">ベイズ統計モデリングはじめました&lt;/h3>
+&lt;iframe frameborder="0" src="https://docs.google.com/presentation/d/1yCKxpsaNmTpDeXw1a1P04GsgbX417-GAJMhd2Lc70XY/embed" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;p>古典統計とベイズ統計の違いを説明し、ベイズ統計を使った予測を紹介しました。&lt;/p>
+&lt;h3 id="nand2tetrisから学ぶコンピュータのメモリの使い方">Nand2Tetrisから学ぶコンピュータのメモリの使い方&lt;/h3>
+&lt;p>関数呼び出しがされるときのスタックの動作とアセンブリコードについて考察しました。&lt;/p>
+&lt;h3 id="機械学習で画像ファイルを推しキャラだけにする">機械学習で画像ファイルを推しキャラだけにする&lt;/h3>
+&lt;p>前回の課題だったモデルの保存と読み込みを行い、加えてモデルの閾値の考察をした結果を発表しました。&lt;/p>
+&lt;h3 id="gitmessageで虚無コミットをやめよう">.gitmessageで虚無コミットをやめよう&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/c376663f59b94a6cb4c0feba2bceb9e2" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;p>Gitのコミットメッセージには何を書くべきかの問題提起を行いました。&lt;/p>
+&lt;h3 id="pythonのprint関数にみるポリモーフィズム">Pythonのprint関数にみるポリモーフィズム&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/b2428c8b12964e3596ff3776d5d5c1d1" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;p>Pythonのprint関数の実装を考察し、自作のデータ構造も引数にとれることを確認しました。&lt;/p>
+&lt;h3 id="rustwindows-rsでシューティングゲームを作った話">Rust+windows-rsでシューティングゲームを作った話&lt;/h3>
+&lt;p>途中まで制作したゲームと、Entity Component Systemについて紹介をしました。&lt;/p></description></item><item><title>2022年3月29日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20220329/</link><pubDate>Wed, 30 Mar 2022 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20220329/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2022年3月29日(火)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;h3 id="gasでgmail通知botを作ってみた">GASでGmail通知Botを作ってみた&lt;/h3>
+&lt;p>Google Apps Scriptで特定のメールが届いたときに通知を出してくれるDiscordのBotを作成しました。&lt;/p>
+&lt;h3 id="角の三等分問題について">角の三等分問題について&lt;/h3>
+&lt;p>角の三等分線が作図不可能であることの証明をしました。&lt;/p>
+&lt;h3 id="無限にねこの写真が見たい">無限にねこの写真が見たい&lt;/h3>
+&lt;p>とあるSNSのAPIを叩いてねこの写真を眺めるプログラムを作りました。&lt;/p>
+&lt;h3 id="rustを使った所感">Rustを使った所感&lt;/h3>
+&lt;p>春休みに行った開発を紹介し、併せてRustの言語仕様について語りました。&lt;/p>
+&lt;h3 id="svelteの話をする">Svelteの話をする&lt;/h3>
+&lt;p>簡単にWebアプリを作ることのできる、JavaScriptフレームワークSvelteの布教をしました。&lt;/p>
+&lt;h3 id="python-mediapipeunity-カメラから手を3dcg空間に転送してみた">Python Mediapipe+Unity カメラから手を3DCG空間に転送してみた&lt;/h3>
+&lt;p>Pythonモジュールを用いてUnityにデータ転送をする方法について話をしました。&lt;/p>
+&lt;h3 id="機械学習で画像ファイルを推しキャラだけにする">機械学習で画像ファイルを推しキャラだけにする&lt;/h3>
+&lt;p>深層学習を含む様々な機械学習アルゴリズムを駆使して推しの画像データを分類しました。&lt;/p></description></item></channel></rss>
