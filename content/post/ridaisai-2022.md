@@ -1,8 +1,10 @@
 ---
-title: 2022年度理大祭への出展のお知らせ
+title: 2022年度理大祭への出展を行いました
 date: 2022-11-17T00:00:00+09:00
+lastmod: 2022-12-04T00:00:00+09:00
 categories:
   - news
+  - activities
   - works
 tags:
   - 理大祭
@@ -12,6 +14,7 @@ emoji: 1F341
 
 ## はじめに
 
+<s>
 RICORAプログラミング班は<a href="https://nodaridaisai.com/2022/">2022年度理大祭</a>に出展します。場所と日時は以下のとおりです。
 
 <table>
@@ -28,6 +31,10 @@ RICORAプログラミング班は<a href="https://nodaridaisai.com/2022/">2022�
 {{< linkcard url=https://reserve.nodaridaisai.jp/ >}}
 
 みなさんのご来場をお待ちしています！
+
+</s>
+
+<span style="color: red;">**(追記)2022年度の理大祭は終了しました。ブースにお越しいただいた方はありがとうございました。**</span>
 
 ## 展示物一覧
 
