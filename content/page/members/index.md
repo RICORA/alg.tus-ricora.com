@@ -12,7 +12,7 @@ links:
         link: https://twitter.com/kattyancmp
       - link: https://kattyan.dev
   - title: たそたく
-    description: 2022年度副代表。情報計算科学科。アストルフォ推し。機械学習をいろいろやりたい。
+    description: 2023年度代表。情報計算科学科。アストルフォ推し。機械学習をいろいろやりたい。
     image: https://avatars.githubusercontent.com/u/84508110
     social:
       - icon: brand-github
