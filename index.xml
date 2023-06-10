@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>機械学習講座を行いました</title><link>https://alg.tus-ricora.com/p/machine-learning-lecture-2023/</link><pubDate>Thu, 25 May 2023 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/machine-learning-lecture-2023/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RICORA Programming Team</title><link>https://alg.tus-ricora.com/</link><description>Recent content on RICORA Programming Team</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://alg.tus-ricora.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2023年6月2日の部内LT会まとめ</title><link>https://alg.tus-ricora.com/p/lt-20230602/</link><pubDate>Sat, 10 Jun 2023 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/lt-20230602/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>この記事は2023年6月2日(金)に行った部内LT(Lightning Talk)会のまとめ記事になります。&lt;/p>
+&lt;h2 id="発表内容一覧">発表内容一覧&lt;/h2>
+&lt;p>掲載許可を頂いたスライドのみ掲載しています。&lt;/p>
+&lt;h3 id="qpackって何">QPACKって何？&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/6ae22359ef00428796d4f2b7c2ab9ab7" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;h3 id="windowsはクソ">Windowsはクソ&lt;/h3>
+&lt;h3 id="アプリアルゴリズム図鑑の紹介">アプリ「アルゴリズム図鑑」の紹介&lt;/h3>
+&lt;h3 id="私chatgptがchatgptを解説するよ">私、ChatGPTがChatGPTを解説するよ！&lt;/h3>
+&lt;iframe frameborder="0" src="https://speakerdeck.com/player/abb856822d0a4f848fbc78f3796002af" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 560px; height: 314px;"
+data-ratio="1.78343949044586">
+&lt;/iframe></description></item><item><title>機械学習講座を行いました</title><link>https://alg.tus-ricora.com/p/machine-learning-lecture-2023/</link><pubDate>Thu, 25 May 2023 00:00:00 +0900</pubDate><guid>https://alg.tus-ricora.com/p/machine-learning-lecture-2023/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>2023年5月19日(金)に機械学習の講座を行いました。&lt;/p>
 &lt;h2 id="資料">資料&lt;/h2>
 &lt;p>使用したスライド資料およびリポジトリは以下の通りです。&lt;/p>
