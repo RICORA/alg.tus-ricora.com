@@ -2,9 +2,9 @@
 title: Vulkan講座を行いました
 date: 2023-05-23T00:00:00+09:00
 categories:
-- activities
+  - activities
 tags:
-- 講座
+  - 講座
 slug: vulkan-lecture-2023
 emoji: 1F30B
 ---

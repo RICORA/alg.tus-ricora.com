@@ -21,6 +21,6 @@ Advent Calendarとは、元々は12月1日からクリスマスまでの期間�
 
 以下のAdventarのリンクからご覧ください。
 
-{{< linkcard url=https://adventar.org/calendars/7447 >}}
+{{< linkcard url="https://adventar.org/calendars/7447" >}}
 
 部員が普段開発しているものや、研究の成果などが順次公開されていきますので、ぜひお楽しみください。
