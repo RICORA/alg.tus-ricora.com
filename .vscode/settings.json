@@ -1,0 +1,10 @@
+{
+  "[markdown]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.markdownlint": true
+    }
+  },
+  "markdownlint.run": "onType",
+  "textlint.run": "onType",
+  "textlint.autoFixOnSave": true
+}

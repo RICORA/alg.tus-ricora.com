@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "taichi.vscode-textlint",
+    "kaellarkin.hugo-shortcode-syntax"
+  ]
+}

@@ -1,0 +1,6 @@
+# prh version
+version: 1
+rules:
+  - expected: ($1)
+    pattern:  /（(.+?)）/
+    prh: 丸括弧は半角に統一します。
