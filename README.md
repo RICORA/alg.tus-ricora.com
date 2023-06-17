@@ -25,3 +25,15 @@
 ### ファイル命名規則
 
 - アルファベットの小文字と数字のみ使うようにしましょう。
+
+### コードスタイル
+
+Pull Requestを送る前に以下のコマンドでLintを行い、エラーが出ていないかを確認してください。実行には[Node.js](https://nodejs.org/ja/)が必要です。
+
+```sh
+npm install # 初回のみ実行してください。node_modules/が生成されます。
+npm run format
+npm run lint
+```
+
+Linterの設定は`.markdownlint-cli2.jsonc`と`.textlintrc.json`に記述してあります。記事を作成する上で不都合が生じた場合は、適宜修正してください。
