@@ -2,9 +2,9 @@
 title: 機械学習講座を行いました
 date: 2023-05-25T00:00:00+09:00
 categories:
-- activities
+  - activities
 tags:
-- 講座
+  - 講座
 slug: machine-learning-lecture-2023
 emoji: 1F916
 ---
