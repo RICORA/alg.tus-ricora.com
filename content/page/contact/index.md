@@ -1,7 +1,7 @@
 ---
 title: お問い合わせ
-date: "2022-03-15"
-lastmod: "2022-03-15"
+date: 2022-03-15T00:00:00+09:00
+lastmod: 2023-06-16T00:00:00+09:00
 menu:
   main:
     weight: 12
@@ -23,7 +23,3 @@ slug: contact
 新歓の時期以外での入部希望者や提携のご相談など、個別に返信が欲しい場合はこちらからお願いします。
 
 {{< linkcard url="https://forms.gle/1nBcSnRsyMB5WzQr9" >}}
-
-またTwitterのDMも開放しております。
-
-{{< linkcard url="https://twitter.com/ricora_alg" >}}
